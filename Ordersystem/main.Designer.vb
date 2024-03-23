@@ -61,6 +61,7 @@ Partial Class main
         'FastfoodordersystemDataSet1
         '
         Me.FastfoodordersystemDataSet1.DataSetName = "FastfoodordersystemDataSet1"
+        Me.FastfoodordersystemDataSet1.Namespace = "http://tempuri.org/FastfoodordersystemDataSet1.xsd"
         Me.FastfoodordersystemDataSet1.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema
         '
         'FastfoodordersystemDataSet1BindingSource
